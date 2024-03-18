@@ -1,0 +1,6 @@
+.mono
+.vscode
+node_modules
+obj
+target
+bin
